@@ -19,7 +19,7 @@ no-log-ix-name = []
 cpi = ["no-entrypoint"]
 
 [dependencies]
-anchor-lang = "=0.31.0"
+anchor-lang = "=0.31.1"
 
 # unpack TickArray
 bincode = "1"
